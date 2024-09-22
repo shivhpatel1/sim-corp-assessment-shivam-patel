@@ -8,6 +8,6 @@ The program can provide maximum profit for the given stocks: AAPL, MSFT, NFLX, T
 
 ## Steps to compile and run the program:
 1. Clone the repo and ensure Maven and Java is correctly installed 
-2. Update pom.xml file to specified Java version being used
-2. Run 'mvn install'
-3. Finally to run the program : 'java -cp target/stock-profit-calculator-1.0-SNAPSHOT.jar simcorp.stock.profit.calculator.App'
+2. Update <maven.compiler.release> in pom.xml to Java version being used
+2. Run `mvn install`
+3. Finally to run the program : `java -cp target/stock-profit-calculator-1.1-SNAPSHOT.jar simcorp.stock.profit.calculator.App`
