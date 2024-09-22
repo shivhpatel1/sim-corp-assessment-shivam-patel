@@ -13,4 +13,6 @@ The program can provide maximum profit for the given stocks: AAPL, MSFT, NFLX, T
 3. Finally to run the program : `java -cp target/stock-profit-calculator-1.1-SNAPSHOT.jar simcorp.stock.profit.calculator.App`
 
 Example Execution Output:
+
+
 ![image](https://github.com/user-attachments/assets/d257dfdb-57aa-48f4-b8ce-0202f98716c4)
