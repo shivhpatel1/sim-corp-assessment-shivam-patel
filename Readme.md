@@ -2,7 +2,7 @@
 
 ## Stock Profit Calculator
 
-This is a program to calculate the maximum profit for a given stock by buying and selling exactly once throught the year.
+This is a mavne project to calculate the maximum profit for a given stock by buying and selling exactly once throught the year.
 
 The program can provide maximum profit for the given stocks: AAPL, MSFT, NFLX, TSLA
 
