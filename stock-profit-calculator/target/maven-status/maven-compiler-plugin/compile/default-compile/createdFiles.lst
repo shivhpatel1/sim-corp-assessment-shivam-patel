@@ -1,0 +1,6 @@
+simcorp\stock\profit\calculator\utils\InputValidator.class
+simcorp\stock\profit\calculator\App.class
+simcorp\stock\profit\calculator\model\MaxProfit.class
+simcorp\stock\profit\calculator\model\StockData.class
+simcorp\stock\profit\calculator\utils\FileHelper.class
+simcorp\stock\profit\calculator\constants\AppConstants.class
